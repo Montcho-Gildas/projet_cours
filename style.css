@@ -5,7 +5,9 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
-
+*{
+    font-size: 19px;
+}
 header {
     background: #35424a;
     color: #ffffff;
